@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+
+    background: url("../images/weather.jpg") fixed no-repeat center;
+}
